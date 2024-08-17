@@ -1,7 +1,7 @@
 # Data Structures and Algorithms: A Targeted Practice Plan for Coding Interviews
 
 
-:bulb: Document Usage Tip: The links in the [schedule](#Spaced%20Repetition%20Time%20Table) at the bottom can take you directly to the corresponding content!
+:bulb: Document Usage Tip: The links in the [schedule](#spaced-repetition-time-table) at the bottom can take you directly to the corresponding content!
 
 - Clear Target: Interview preparation
 - Training Content: Data Structure and Algorithm & Computer Fundamentals (Operating Systems, Databases, Networks)
@@ -51,7 +51,7 @@ The journey of coding interview preparation can be challenging, but by shifting 
 
 | No. | Time | Content | Review today's | Review past No. |
 | --- | --- | --- | --- | --- |
-| 1 | Day 1 |  | [ ]  2 hrs <br>[ ] 12 hrs |  |
+| 1 | Day 1 | [Array(1)](Array/Day1.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs |  |
 | 2 | Day 2 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
 | 3 | Day 3 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.2 <br>[ ] No.1 |
 | 4 | Day 4 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.3 <br>[ ] No.2 |
