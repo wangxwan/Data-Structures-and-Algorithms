@@ -1,10 +1,15 @@
 # Day1 content
 
 [A. Binary Search](#a-binary-search)
+
 [B. Search Insert Position](#b-search-insert-position)
+
 [C. Find First and Last Position of Element in Sorted Array](#c-find-first-and-last-position-of-element-in-sorted-array)
+
 [D. Sqrt(x)](#d-sqrtx)
+
 [E. Valid Perfect Square](#e-valid-perfect-square)
+
 [F. Remove Element](#f-remove-element)
 
 
