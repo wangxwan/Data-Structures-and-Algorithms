@@ -12,6 +12,8 @@
 
 [F. Remove Element](#f-remove-element)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Binary Search
 
@@ -300,3 +302,8 @@ public:
 
 ![RE](image-5.png)
 
+
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 00:24:03 | 00:02:27 | 00:05:12 | 00:04:31 | 00:04:37 | 00:04:24 | 00:02:52
