@@ -12,6 +12,8 @@
 
 [F. Fruit Into Baskets](#f-fruit-into-baskets)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Remove Duplicates from Sorted Array
 
@@ -303,3 +305,8 @@ public:
 
 ![FIB](image-11.png)
 
+
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 01:21:21 | 00:05:18 | 00:04:27 | 00:28:31 | 00:08:17 | 00:08:53 | 00:25:55
