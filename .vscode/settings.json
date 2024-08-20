@@ -5,6 +5,7 @@
         "xstring": "cpp",
         "regex": "cpp",
         "xiosbase": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "string": "cpp"
     }
 }
