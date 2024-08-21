@@ -246,3 +246,4 @@ The minimum difference in total land value between the two sub-areas can reach 0
 
 After N Days | Total(time) | A | B | C | D | E | F
 1 | 00:58:32 | 00:23:51 | 00:10:03 | 00:09:33 | 00:10:05 | 00:02:32 | 00:02:28
+2 | 00:47:11 | 00:18:52 | 00:09:16 | 00:07:22 | 00:07:03 | 00:01:20 | 00:03:18

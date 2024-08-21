@@ -12,6 +12,8 @@
 
 [F. Intersection of Two Linked Lists](#f-intersection-of-two-linked-lists)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Remove Linked List Elements
 
@@ -413,3 +415,9 @@ public:
 [Solution](ITLL.cpp)
 
 ![ITLL](image-15.png)
+
+
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 01:31:17 | 00:10:16 | 00:17:56 | 00:31:56 | 00:12:11 | 00:08:19 | 00:10:39
