@@ -6,6 +6,7 @@
         "regex": "cpp",
         "xiosbase": "cpp",
         "xlocale": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "unordered_map": "cpp"
     }
 }
