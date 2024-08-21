@@ -55,7 +55,7 @@ The journey of coding interview preparation can be challenging, but by shifting 
 | 2 | Day 2 | [Array(2)](Array/Day2.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.1 |
 | 3 | Day 3 | [Array(3)](Array/Day3.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.2 <br>:white_check_mark: No.1 |
 | 4 | Day 4 | [LinkedList(1)](LinkedList/Day4.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.3 <br>:white_check_mark: No.2 |
-| 5 | Day 5 | [LinkedList(2)&HashTable(1)](HashTable/Day5.md) | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.4 <br>[ ] No.3 |
+| 5 | Day 5 | [LinkedList(2)&HashTable(1)](HashTable/Day5.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | [ ] No.4 <br>[ ] No.3 |
 | 6 | Day 6 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.5 <br>[ ] No.4 |
 | 7 | Day 7 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.6 <br>[ ] No.5 |
 | 8 | Day 8 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.7 <br>[ ] No.6 <br>[ ] No.1 |
