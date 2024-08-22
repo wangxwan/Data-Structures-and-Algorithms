@@ -12,6 +12,8 @@
 
 [F. Intersection of Two Arrays](#f-intersection-of-two-arrays)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Linked List Cycle II
 
@@ -287,3 +289,8 @@ public:
 
 ![ITA](image-9.png)
 
+
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 00:42:32 | 00:19:03 | 00:02:24 | 00:02:07 | 00:05:17 | 00:10:50 | 00:02:51

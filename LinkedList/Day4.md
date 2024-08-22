@@ -392,7 +392,7 @@ Explanation: The two lists do not intersect, so return null.
 - `intersectVal` is `0` if `listA` and `listB` do not intersect.
 - `intersectVal == listA[skipA] == listB[skipB]` if `listA` and `listB` intersect.
  
-
+\
 **Follow up:** Could you write a solution that runs in `O(m + n)` time and use only `O(1)` memory?
 
 ```c++
@@ -421,3 +421,4 @@ public:
 
 After N Days | Total(time) | A | B | C | D | E | F
 1 | 01:31:17 | 00:10:16 | 00:17:56 | 00:31:56 | 00:12:11 | 00:08:19 | 00:10:39
+2 | 00:39:40 | 00:03:14 | 00:11:28 | 00:05:35 | 00:04:23 | 00:06:15 | 00:08:45
