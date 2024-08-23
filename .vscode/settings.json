@@ -58,5 +58,10 @@
         "xloctime": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp"
+    },
+    "marscode.enableCodelens": {
+        "enableInlineDocumentation": false,
+        "enableInlineUnitTest": false,
+        "enableInlineExplain": false
     }
 }
