@@ -12,6 +12,8 @@
 
 [F. 4Sum](#f-4sum)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Intersection of Two Arrays II
 
@@ -297,3 +299,7 @@ public:
 ![4S](image-15.png)
 
 
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 01:25:12 | 00:05:04 | 00:19:03 | 00:10:24 | 00:09:13 | 00:30:37 | 00:10:51
