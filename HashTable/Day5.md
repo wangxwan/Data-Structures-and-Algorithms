@@ -76,7 +76,7 @@ public:
 };
 ```
 
-[Solution](LLCII.cpp)
+[Solution](../LinkedList/LLCII.cpp)
 
 ![LLCII](image-3.png)
 
