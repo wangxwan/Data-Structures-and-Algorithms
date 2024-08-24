@@ -12,6 +12,9 @@
 
 [F. Find the Index of the First Occurrence in a String](#f-find-the-index-of-the-first-occurrence-in-a-string)
 
+[Review Time Table](#review-time-table)
+
+
 
 ## A. Reverse String
 
@@ -226,3 +229,7 @@ public:
 ![FIFOS](image-5.png)
 
 
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 01:25:12 | 00:00:50 | 00:17:07 | 00:01:10 | 00:21:27 | 00:01:05 | 00:06:31
