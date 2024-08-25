@@ -58,11 +58,13 @@
         "xloctime": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "queue": "cpp"
     },
     "marscode.enableCodelens": {
         "enableInlineDocumentation": false,
         "enableInlineUnitTest": false,
         "enableInlineExplain": false
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }

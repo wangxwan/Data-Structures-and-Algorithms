@@ -10,6 +10,8 @@
 
 [E. Remove All Adjacent Duplicates In String](#e-remove-all-adjacent-duplicates-in-string)
 
+[F. Evaluate Reverse Polish Notation](#f-evaluate-reverse-polish-notation)
+
 
 ## A. Repeated Substring Pattern
 
