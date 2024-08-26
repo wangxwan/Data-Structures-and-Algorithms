@@ -59,7 +59,7 @@ The journey of coding interview preparation can be challenging, but by shifting 
 | 6 | Day 6 | [HashTable(2)](HashTable/Day6.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.5 <br>:white_check_mark: No.4 |
 | 7 | Day 7 | [String(1)](String/Day7.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.6 <br>:white_check_mark: No.5 |
 | 8 | Day 8 | [String(2)&Stack_Queue(1)](Stacks_Queues/Day8.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.7 <br>:white_check_mark: No.6 <br>:white_check_mark: No.1 |
-| 9 | Day 9 | [Stack_Queue(2)&BinaryTree(1)](BinaryTree/Day9.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | [ ] No.8 <br>[ ] No.7 <br>[ ] No.2 |
+| 9 | Day 9 | [Stack_Queue(2)&BinaryTree(1)](BinaryTree/Day9.md) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs | :white_check_mark: No.8 <br>:white_check_mark: No.7 <br>:white_check_mark: No.2 |
 | 10 | Day 10 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.9 <br>[ ] No.8 <br>[ ] No.3 |
 | 11 | Day 11 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.10 <br>[ ] No.9 <br>[ ] No.4 |
 | 12 | Day 12 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.11 <br>[ ] No.10 <br>[ ] No.5 |

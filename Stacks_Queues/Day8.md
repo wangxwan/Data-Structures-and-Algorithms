@@ -12,6 +12,9 @@
 
 [F. Evaluate Reverse Polish Notation](#f-evaluate-reverse-polish-notation)
 
+[Review Time Table](#review-time-table)
+
+
 
 ## A. Repeated Substring Pattern
 
@@ -375,3 +378,7 @@ public:
 ![ERPN](image-5.png)
 
 
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 00:36:07 | 00:08:03 | 00:09:20 | 00:02:57 | 00:04:45 | 00:05:16 | 00:05:46
