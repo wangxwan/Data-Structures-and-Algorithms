@@ -10,6 +10,8 @@
 
 [E. Binary Tree Inorder Traversal](#e-binary-tree-inorder-traversal)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Sliding Window Maximum
 
@@ -303,3 +305,8 @@ public:
 
 ![BTIT_I](image-9.png)
 
+
+## Review Time Table
+
+After N Days | Total(time) | A | B | C_R | C_I | D_R | D_I | E_R | E_I
+1 | 01:23:45 | 00:22:48 | 00:18:33 | 00:03:07 | 00:15:47 | 00:02:10 | 00:03:54 | 00:01:47 | 00:15:39
