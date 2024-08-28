@@ -59,7 +59,11 @@
         "xmemory": "cpp",
         "xtr1common": "cpp",
         "stack": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
     },
     "marscode.enableCodelens": {
         "enableInlineDocumentation": false,
