@@ -20,6 +20,8 @@
 
 [J. Minimum Depth of Binary Tree](#j-minimum-depth-of-binary-tree)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Binary Tree Level Order Traversal
 
@@ -599,3 +601,7 @@ public:
 ![MinDBT](image-30.png)
 
 
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F | G | H | I | J
+1 | 00:38:35 | 00:03:09 | 00:02:52 | 00:04:35 | 00:04:12 | 00:03:42 | 00:03:16 | 00:08:04 | 00:03:28 | 00:02:19 | 00:02:58
