@@ -12,6 +12,8 @@
 
 [F. Maximum Depth of N-ary Tree](#f-maximum-depth-of-n-ary-tree)
 
+[Review Time Table](#review-time-table)
+
 
 ## A. Invert Binary Tree
 
@@ -315,3 +317,7 @@ public:
 ![MDNT](image-47.png)
 
 
+## Review Time Table
+
+After N Days | Total(time) | A | B | C | D | E | F
+1 | 01:31:17 | 00:08:15 | 00:08:41 | 00:02:41 | 00:06:19 | 00:02:33 | 00:10:59
